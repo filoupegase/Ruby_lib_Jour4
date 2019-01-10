@@ -2,5 +2,5 @@
 
 Pair-programming Ruby réalisé par :
 
-Aurelien Verschueren : @aurelienvvv
+Aurelien Verschueren : @aurelienvvv </br>
 Corentin Loison : @filoupegase
